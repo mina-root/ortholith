@@ -10,6 +10,17 @@ RP2040 を使った左右分割キーボード **Ortholith** のファームウ�
 > 設計時にピンアサインを逆にするとかいう大ポカをやらかしたので乗りません（悲しい……）
 > ケースの該当箇所も塞いであります
 
+## 組み立てる方へ
+
+組み立て手順・同梱物・別途用意していただくものは **[BUILD.md（組み立てガイド）](BUILD.md)** にまとめてあります。
+
+## 接続について
+
+キーボードとPCの接続は左手側の奥側にあるTypeCポートを使用してください。
+左右の接続は内側側面にあるコネクタを使用してください。ここでもTypeCケーブルを使用します。
+
+**左右間の接続に使うコネクタを誤ってPCに接続しないようにしてください！** 
+
 ## ⚠ キー配列について
 
 既定のキーマップは **QWERTY ではなく** ローマ字入力に最適化された
@@ -155,3 +166,6 @@ GPL-2.0-or-later。詳細は [LICENSE](LICENSE) を参照してください。
 
 * vial-qmk: https://github.com/vial-kb/vial-qmk （コミット `dd43959ae5c08d8a28d38a1acf7b04e86b14a344`）
 * QMK Firmware: https://github.com/qmk/qmk_firmware
+
+また、同梱のトラックボールケースは [けぺお（kepeo）](https://www.thingiverse.com/kepeo/designs) さんの作品を、
+[CC BY](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて利用・同梱しています。
