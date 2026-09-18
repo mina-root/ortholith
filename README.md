@@ -3,7 +3,7 @@
 RP2040 を使った左右分割キーボード **Ortholith** のファームウェア（QMK / Vial 用キーボード定義）です。
 
 * 7x4 格子配列・47キー+2エンコーダ
-* 右手側に PMW3360 トラックボール
+* 右手側に PMW3360 トラックボール(Keyballのトラックボール基板と互換)
 * RGB Matrix 47 LED
 
 > キーフリで頒布したv0 基板では **OLED は搭載できません。** 基板上にパターンとシルクがありますが、
@@ -167,5 +167,10 @@ GPL-2.0-or-later。詳細は [LICENSE](LICENSE) を参照してください。
 * vial-qmk: https://github.com/vial-kb/vial-qmk （コミット `dd43959ae5c08d8a28d38a1acf7b04e86b14a344`）
 * QMK Firmware: https://github.com/qmk/qmk_firmware
 
-また、同梱のトラックボールケースは [けぺお（kepeo）](https://www.thingiverse.com/kepeo/designs) さんの作品を、
-[CC BY](https://creativecommons.org/licenses/by/4.0/deed.ja) に基づいて利用・同梱しています。
+### 同梱のトラックボールケースについて
+
+同梱のトラックボールケースは、[けぺお（kepeo）](https://www.thingiverse.com/kepeo/designs) さんの
+「[Keyball 25mm Trackball Case Type C](https://www.thingiverse.com/thing:6719828)」を利用しています。
+ライセンスは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) です。
+
+**改変点**: M2ネジに合わせて、ネジ穴を少し大きくしています。
