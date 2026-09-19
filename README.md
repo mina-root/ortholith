@@ -172,5 +172,3 @@ GPL-2.0-or-later。詳細は [LICENSE](LICENSE) を参照してください。
 同梱のトラックボールケースは、[けぺお（kepeo）](https://www.thingiverse.com/kepeo/designs) さんの
 「[Keyball 25mm Trackball Case Type C](https://www.thingiverse.com/thing:6719828)」を利用しています。
 ライセンスは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) です。
-
-**改変点**: M2ネジに合わせて、ネジ穴を少し大きくしています。

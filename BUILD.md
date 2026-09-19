@@ -18,20 +18,20 @@
 
 ## 別途用意するもの
 
-- MXソケット 47個
+- [MXソケット](https://shop.yushakobo.jp/products/a01ps?srsltid=AU7gw4WFIyZhIwLsuqZLKkNRcOnKeA0dpSgSg29adH4ZqgKDEYiCQ8HE) 47個
 - MX互換キースイッチ 47個
 - キーキャップ 47個
 - USB-C ケーブル 2本（PC接続用・左右接続用）
-- はんだごて・はんだ
-- ドライバー
 - [KeyBall用トラックボールセンサ基板](https://shiroganelab.com/products/keyball-pre-soldered-trackball-sensor-lens-set)
 - [KeyBall用L字コンスルー](https://shiroganelab.com/products/keyball-l-shape-7pin-conthrough)
 - 25mmトラックボール
 - 2mmセラミックボール 3個（トラックボールケースに付ける）
+- はんだごて・はんだ
+- ドライバー
 
 ## 組み立て手順
 
-1. **PORON フォームシートを切って、スイッチプレートのタブに貼る**
+1. **PORON フォームシートを切って、スイッチプレートのタブの表裏両面に貼る**
    このキーボードは**ガスケットマウント**です。プレートはネジで直接留めるのではなく、
    タブに貼ったフォームがケースに挟まれることで保持されます。
    シートで同梱していますので、タブの大きさに合わせて切って貼ってください。
@@ -50,8 +50,7 @@
 
 このキーボードは **USB が接続されている側を左手と判定します。**
 右半分に USB を挿すと、ファームウェアが自分を左手だと誤認して正しく動作しません
-（故障はしませんが、キー入力も LED も意図どおりになりません）。
-
+（故障はしませんが、キー入力も LED も意図どおりになりません）
 
 
 ## キーマップについて
